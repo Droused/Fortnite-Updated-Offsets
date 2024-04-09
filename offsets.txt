@@ -46,7 +46,7 @@ namespace SDK {
         int AmmoCount = 0xE54; // Class FortniteGame.AActor -> int32_t AmmoCount;
     }
     namespace Character {
-        int bIsCrouched = 0x45c; // Class Engine.Character -> char bIsCrouched : 1;
+        int bIsCrouched = 0x45c; // Class Engine.Character -> char bIsCrouched;
     }
     namespace FortPawn {
 
